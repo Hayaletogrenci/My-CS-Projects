@@ -1,0 +1,11 @@
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\bin\Debug\Yemek.exe.config
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\bin\Debug\Yemek.exe
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\bin\Debug\Yemek.pdb
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.csproj.AssemblyReference.cache
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.Properties.Resources.resources
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.csproj.GenerateResource.cache
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.csproj.CoreCompileInputs.cache
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.exe
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.pdb
+C:\Users\Hayaletogenci\source\repos\Yemek\Yemek\obj\Debug\Yemek.Wmdyh.resources
